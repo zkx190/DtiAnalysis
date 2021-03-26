@@ -6,7 +6,7 @@
 
 #sort as follow : 
 
-rawdata.nii.gz 
-bevcs.bvec
-bvals.bval
+rawdata.nii.gz    
+bevcs.bvec    
+bvals.bval    
 T1.nii.gz
